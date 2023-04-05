@@ -1,6 +1,6 @@
 # 小米运动自动刷步数
 ```
-最后一次运行时间: 2023-04-04 10:25:50 （北京时间） 
+最后一次运行时间: 2023-04-05 10:13:32 （北京时间） 
 ```
 ## Github Actions 部署指南
 > 前往: Settings-->Secrets-->Actions-->New repository secret
